@@ -113,6 +113,8 @@
  */
 -(void)seekTo:(CGFloat)seekTo;
 
+- (CGFloat *) rotations;
+
 @end
 
 /**
